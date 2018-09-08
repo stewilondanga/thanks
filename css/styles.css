@@ -70,19 +70,19 @@ span:nth-child(6) {
   margin: 20px auto;
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
   color: #c0c0c0;
-  padding-top: 150px;
+  padding-top: 350px;
   padding-bottom: 10px;
   width: 375px;
   margin: 0 auto;
   border-bottom: 3px solid #f3f3f3;
 }
 
-.cal {
+/*.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
