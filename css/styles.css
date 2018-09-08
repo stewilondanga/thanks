@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+body {
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  background: #240041;
+  font-family: Montserrat, sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -20,15 +28,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-body {
-  margin: 0;
-  display: flex;
-  height: 100vh;
-  background: #240041;
-  font-family: Montserrat, sans-serif;
 }
 
 h1 {
