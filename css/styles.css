@@ -56,7 +56,7 @@ span:nth-child(6) {
   animation: blink 1s steps(1, start) 0.66s infinite;
 }
 
-/*@keyframes blink {
+@keyframes blink {
   33% {
     color: #FF4057;
   }
@@ -65,7 +65,7 @@ span:nth-child(6) {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
