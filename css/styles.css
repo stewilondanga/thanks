@@ -32,11 +32,11 @@ body {
   letter-spacing: -.15em;
 }
 
-/*span:nth-child(1) {
+span:nth-child(1) {
   animation: blink 1s steps(1, start) 0.33s infinite;
 }
 
-span:nth-child(2) {
+/*span:nth-child(2) {
   animation: blink 1s steps(1, start) 0.66s infinite;
 }
 
